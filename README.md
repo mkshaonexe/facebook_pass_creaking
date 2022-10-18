@@ -28,7 +28,7 @@ Add badges from somewhere like: [shields.io](https://shields.io/)
 Insert gif or link to demo
 
 
-![Logo](https://image.similarpng.com/very-thumbnail/2020/06/Hacker-hacking-the-internet-on-transparent-background-PNG.png)
+![Logo](https://upload.wikimedia.org/wikipedia/commons/f/fd/Hack.png)
 
 
 ## Related
